@@ -1,0 +1,17 @@
+ool isPalindrome(int x) {
+    long rev=0;
+    long long original=x;
+    if(x<0)
+    {
+        return false;
+    }
+    while(x>0){ 
+    int y =x % 10;
+    rev =rev * 10 + y;
+    x=x/10;
+    }
+     if(rev!=original)
+     return false;
+     else
+     return true;
+  }

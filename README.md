@@ -1,6 +1,6 @@
 # leetcode-solutions
 
-this repository contains my accepted leetcode solution nwriiten in c and sql
+this repository contains my accepted leetcode solution wriiten in c and sql
 
 #problem solved
  ###array
@@ -19,5 +19,5 @@ this repository contains my accepted leetcode solution nwriiten in c and sql
 
  -goal is to solve 100+leetcode problems.
  -improve data structure and algorithms
- -upload a acceptedb solution in github
+ -upload a accepted solution in github
  

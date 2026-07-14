@@ -1,8 +1,9 @@
 # leetcode-solutions
 
-this repository contains my accepted leetcode solution wriiten in c and sql
+This repository contains my accepted leetcode solution wriiten in c and sql
 
-#problem solved
+##problem solved
+
  ###array
  -twosum
  -remove duplicates from sorted array
@@ -17,7 +18,8 @@ this repository contains my accepted leetcode solution wriiten in c and sql
  ###bit manupulation
  -single number
 
- -goal is to solve 100+leetcode problems.
+ ###goal
+ -solve 100+leetcode problems.
  -improve data structure and algorithms
  -upload a accepted solution in github
  

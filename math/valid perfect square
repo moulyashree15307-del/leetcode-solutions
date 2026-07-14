@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<stdlib.h>
+bool isPerfectSquare(int num) 
+{
+    int nums=sqrt(num);
+    if(nums*nums==num)
+       return true;
+    else
+       return false;
+    }
